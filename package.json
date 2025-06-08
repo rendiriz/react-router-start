@@ -15,7 +15,8 @@
     "catalog": {
       "isbot": "^5.1.27",
       "react": "^19.1.0",
-      "react-dom": "^19.1.0"
+      "react-dom": "^19.1.0",
+      "zod": "^3.25.56"
     },
     "catalogs": {
       "build": {
@@ -23,6 +24,7 @@
         "vite-tsconfig-paths": "^5.1.4"
       },
       "env": {
+        "@t3-oss/env-core": "^0.13.6",
         "cross-env": "^7.0.3"
       },
       "eslint": {

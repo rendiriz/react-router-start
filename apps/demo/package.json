@@ -11,11 +11,13 @@
   "dependencies": {
     "@react-router/node": "catalog:react-router",
     "@react-router/serve": "catalog:react-router",
+    "@t3-oss/env-core": "catalog:env",
     "isbot": "catalog:",
     "react": "catalog:",
     "react-dom": "catalog:",
     "react-router": "catalog:react-router",
-    "react-router-hono-server": "catalog:react-router"
+    "react-router-hono-server": "catalog:react-router",
+    "zod": "catalog:"
   },
   "devDependencies": {
     "@react-router/dev": "catalog:react-router",
