@@ -1,0 +1,22 @@
+{
+  "name": "@repo/eslint-config",
+  "version": "0.0.1",
+  "type": "module",
+  "private": true,
+  "exports": {
+    "./base": "./base.js",
+    "./react-router": "./react-router.js"
+  },
+  "devDependencies": {
+    "@eslint/js": "catalog:eslint",
+    "eslint": "catalog:eslint",
+    "eslint-config-prettier": "catalog:eslint",
+    "eslint-plugin-jsx-a11y": "catalog:eslint",
+    "eslint-plugin-only-warn": "catalog:eslint",
+    "eslint-plugin-react": "catalog:eslint",
+    "eslint-plugin-react-hooks": "catalog:eslint",
+    "globals": "catalog:eslint",
+    "typescript": "catalog:typescript",
+    "typescript-eslint": "catalog:eslint"
+  }
+}

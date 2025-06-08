@@ -25,6 +25,17 @@
       "env": {
         "cross-env": "^7.0.3"
       },
+      "eslint": {
+        "@eslint/js": "^9.27.0",
+        "eslint": "^9.27.0",
+        "eslint-config-prettier": "^10.1.1",
+        "eslint-plugin-jsx-a11y": "^6.10.2",
+        "eslint-plugin-only-warn": "^1.1.0",
+        "eslint-plugin-react": "^7.37.4",
+        "eslint-plugin-react-hooks": "^5.2.0",
+        "globals": "^16.1.0",
+        "typescript-eslint": "^8.32.0"
+      },
       "react-router": {
         "@react-router/dev": "^7.5.3",
         "@react-router/node": "^7.5.3",
